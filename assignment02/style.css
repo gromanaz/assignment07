@@ -14,9 +14,10 @@ h1{
   padding-top: 50px;
 }
 
-.indexbody h2 {
+.link {
   display: inline-block;
   padding-top: 100px;
+  font-size: 22px;
 }
 .heading {
   display: flex;
@@ -57,7 +58,7 @@ a {
 .aboutbody{ background-color: #292826; }
 
 .aboutbody { color: #DBD5CC; }
-.aboutbody h1, .aboutbody h2 a { color: #E8E2D8;}
+.aboutbody h1, .aboutbody .link a { color: #E8E2D8;}
 
 
 .img-Container{ display: flex; }
@@ -65,6 +66,7 @@ a {
 #aboutpic {
   width: 50%;
   float: right;
+  margin: 20px;
 }
 
 #history {
