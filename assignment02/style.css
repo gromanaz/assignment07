@@ -5,7 +5,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-h1, h2 { font-family: 'Annie Use Your Telescope', cursive;}
+h1, h2, .subtitle { font-family: 'Annie Use Your Telescope', cursive;}
 
 h1{
   color: black;
@@ -14,6 +14,11 @@ h1{
   padding-top: 50px;
 }
 
+.subtitle {
+  font-size: 30px;
+  text-align: center;
+  margin-left: 70px;
+}
 .link {
   display: inline-block;
   padding-top: 100px;
@@ -52,46 +57,61 @@ a {
   color:black;
 }
 
-.citation{ text-align: center; }
+.citation{
+  text-align: center;
+  padding: 20px;
+ }
 
 .indexbody{ background-color: #6f9eaf; }
 .aboutbody{ background-color: #292826; }
 
-.aboutbody { color: #DBD5CC; }
+.aboutbody, .aboutbody a { color: #DBD5CC; }
 .aboutbody h1, .aboutbody .link a { color: #E8E2D8;}
 
+.aboutbody p {line-height: 1.9;}
 
-.img-Container{ display: flex; }
-
-#aboutpic {
+.right {
   width: 50%;
   float: right;
-  margin: 20px;
+  margin: 25px;
 }
 
-#history {
+.left {
+  width: 50%;
+  float: left;
+  margin: 25px;
+}
+
+.textbox {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  margin-top: 60px;
+  width: 55%;
+  padding-bottom: 60px;
+  border-bottom: 1px solid #E8E2D8;
 }
 
+h2 {
+  font-size: 50px;
+}
+
+.img-Container{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 55%;
+}
 .img-Container img{
-    border: 2px solid #ddd;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:80%;
-    height: auto;
-    border-radius: 4px;
+  display: block;
+  width: 80%;
+  height: auto;
+  border-radius: 4px;
 }
 
 .img-Container p{
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-    text-align: justify;
-    line-height: 1.3;
-    font-size:medium;
-    font-weight: bold;
-    color:#F9D342;
+  width: 80%;
+  text-align: left;
+  line-height: 1.9;
+
 }

@@ -23,6 +23,7 @@ I plan to use Annie Use Your Telescope for headers, headings, anything that is e
   * only one color
   * no shadows
   * increase size
+  * splitting up header
 
 * scannable text:
   * only one text color
@@ -36,22 +37,24 @@ I plan to use Annie Use Your Telescope for headers, headings, anything that is e
 
 * whitespace:
   * include enough space between text and pictures
+  * enough distance to end of screen
 
 * density of text:
   * increase line height
   * increase text size
+  * no justify content
 
 * emphasis of important elements:
   * links
   * headings
 
 * organization of information:
-  * reorganize layout from columns to one with some centered text
+  * reorganize layout from columns to one with centered text
 
 * clean graphical implementation:
   * included enough space around images
 
 * use of separators
-  * lines?
+  * lines to separate individual articles on about page
 
 * good margins:
