@@ -14,4 +14,12 @@ The original fonts used in the website are mostly based on the font stack Georgi
 * Annie Use Your Telescope - headings
 * Open Sans - paragraphs
 
-I chose a combination of two contrasting fonts for this website about Nairobi. The font Annie Use Your Telescope is a hand-written font and in my opinion it fits very well with the theme of tourism that is often very personal and also described in the website. Moreover, this font is unusual and we are not used to seeing it on website, just like visiting Nairobi is somewhat exotic for most people too. Complimentary to Annie Use Your Telescope, I chose the font Open Sans which is a humanist sans serif typeface and provides a good contrast to the individuality of Annie Use Your Telescope. The intend is the combination with a more clear typeface that is still not too impersonal or clinical while providing a relaxing and easy reading experience.
+I chose a combination of two contrasting fonts for this website about Nairobi. The font Annie Use Your Telescope is a hand-written font and in my opinion it fits very well with the theme of tourism that is often very personal and also described in the website. Moreover, this font is unusual and we are not used to seeing it on website, just like visiting Nairobi is somewhat exotic for most people too. As content-driven website a font like Annie Use Your Telescope breaks up monotone paragraphs nicely. Moreover, it fits with the mood of the content.
+Complimentary to Annie Use Your Telescope, I chose the font Open Sans which is a humanist sans serif typeface and provides a good contrast to the individuality of Annie Use Your Telescope. The intend is the combination with a more clear typeface that is still not too impersonal or clinical. As this website is designed to inform about Nairobi the main font should be easy to read like Open Sans and be a neutral compliment to thee distinctive highlighting font Annie Use Your Telescope.
+I plan to use Annie Use Your Telescope for headers, headings, anything that is emphasized, but short, otherwise the reading experience would probably not be enjoyable anymore. Open Sans is the font I chose for paragraphs and lengthy text because it is not ornamented and the reader can focus better on the content.
+
+## Edits
+* more user-friendly headers:
+  * only one color
+  * no shadows
+  * increase size

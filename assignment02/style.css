@@ -4,36 +4,39 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
 h1, h2 { font-family: 'Annie Use Your Telescope', cursive;}
 
-.indexbody{
-    background-color: #6f9eaf;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-
-}
-.aboutbody{
-    background-color: #292826;
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    height: 100%;
-
-}
-h1{
-    color: black;
-    text-align: left;
-}
-.logo{
-    padding-left: 200px;
+.indexbody h1{
+  color: black;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 50px;
 }
 
-.logo-title a{
-    text-decoration: none;
+.indexbody h2 {
+  display: inline-block;
+  padding-top: 100px; 
+}
+.heading {
+  display: flex;
+  justify-content: space-around;
+}
+.indexbody a{
+  color: black;
+
 }
 
-img{
+.logo-image {
+  margin-top: 25px;
+  height: 170px;
+  float: left;
+}
+
+.indexbody{ background-color: #6f9eaf; }
+.aboutbody{ background-color: #292826; }
+
+.aboutbody img{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -41,37 +44,9 @@ img{
     height: auto;
     border-radius: 4px;
 }
-.logo div{
-    display: inline-block;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: x-large;
-    height: auto;
-    text-shadow: 2px 2px red;
 
-}
 
-.logo-image img{
-    margin-top: 25px;
-    height: 100px;
-}
 
-.nav-bar h2{
-    color: black;
-    margin-left: 100px;
-    margin-right: 0;
-    text-decoration-line: underline;
-
-}
-
-.nav-bar a{
-    text-decoration: none;
-}
-
-.header{
-    padding-left: 500px;
-}
 
 .header a{
     text-shadow: 2px 2px red;
@@ -125,7 +100,11 @@ img{
 }
 
 .citation{
-    padding-left: 500px;
+    padding-left: 500px;.logo-image {
+        margin-top: 25px;
+        height: 170px;
+        float: left;
+    }
 }
 
 .citation p{
