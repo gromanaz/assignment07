@@ -23,3 +23,11 @@ I plan to use Annie Use Your Telescope for headers, headings, anything that is e
   * only one color
   * no shadows
   * increase size
+
+* scannable text:
+  * only one text color
+  * font size not too big, but also not too small
+  * line height
+
+* consistency:
+  * all links in same style: same color, same text decoration
