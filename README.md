@@ -1,32 +1,17 @@
-# Assignment-2-Github
-DMST 290
+Gina Romanazzi
+Professor Kostin
+DMS 290 - Front-End Web Design
+26 March 2021
 
-Index Page:
+# Assignment 07 - Legibility, Readability, and Typography
 
-- Removed background image to improve readiability 
+## Original Website
+This assignment is based on: http://lkoblenc.digitalscholar.rochester.edu/assignment02/index.html
 
-- Changed text color to improve legibility 
+The original fonts used in the website are mostly based on the font stack Georgia, Times New Roman, Times, serif. There is an exception where there is only the browser default font. 
 
-- removed erroneous href link to improve usability 
+## New Fonts
+* Annie Use Your Telescope - headings
+* Open Sans - paragraphs
 
-- underlined href link to about for improved usability 
-
-- Increased text size for information source for legibility 
-
-- Centered it on index page and underlined/bold link for usability
-
-- Centered title and logo for increased readability
- 
-
-About Page:
-
-- Underlined and centered Home Page link for increased usability
-
-- Removed background image to improve legibility 
-
-- Added data to "alt" attributes for images for usability
-
-- Changed text color for increased legibility 
-
-- Changed background color for increased readability
-
+WHY??
