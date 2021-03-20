@@ -18,7 +18,7 @@ I chose a combination of two contrasting fonts for this website about Nairobi. T
 Complimentary to Annie Use Your Telescope, I chose the font Open Sans which is a humanist sans serif typeface and provides a good contrast to the individuality of Annie Use Your Telescope. The intend is the combination with a more clear typeface that is still not too impersonal or clinical. As this website is designed to inform about Nairobi, the main font should be one that is easy to read, like Open Sans, and be a neutral compliment to thee distinctive highlighting font Annie Use Your Telescope.
 I plan to use Annie Use Your Telescope for headers, headings, anything that is emphasized, but short, otherwise the reading experience would probably not be enjoyable anymore. Open Sans is the font I chose for paragraphs and lengthy text because it is not ornamented and the reader can focus better on the content.
 
-## Edits EXPLAIN!!!
+## Edits
 Based on the article: 10 Principles Of Readability And Web Typography
 
 * more user-friendly headers:
